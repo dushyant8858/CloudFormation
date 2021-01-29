@@ -1,0 +1,2 @@
+# CloudFormation
+Sample CloudFormation template
